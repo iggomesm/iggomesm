@@ -106,4 +106,3 @@ I have a postgraduate degree in Data Science and I am an enthusiast in the secur
   
   <h2 align="center"> My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50"></h2>
  
-  ![Snake animation](https://github.com/ArkGrayer/ArkGrayer/blob/output/github-contribution-grid-snake.svg)
